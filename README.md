@@ -1,3 +1,4 @@
+<?php
 $symptionName=array();
 $symptomName["s_1558"]="腹部防護";
 $symptomName["s_299"]="腹部腫塊";
@@ -28,8 +29,10 @@ $symptomName["s_1598"]="腹部疼痛，骨盆";
 $symptomName["s_1532"]="腹部疼痛，臍旁";
 $symptomName["s_16"]="腹痛，餐後";
 $symptomName["s_17"]="經期腹痛";
-$symptomName["s_1845"]="腹部疼痛，輻射到左肩或肩blade骨"$symptomName["s_1846"]="腹部疼痛，輻射到背部的中下部";
-$symptomName["s_471"]="腹部疼痛，輻射到右肩或肩blade骨"$symptomName["s_1847"]="腹部疼痛，反復發作";
+$symptomName["s_1845"]="腹部疼痛，輻射到左肩或肩blade骨";
+$symptomName["s_1846"]="腹部疼痛，輻射到背部的中下部";
+$symptomName["s_471"]="腹部疼痛，輻射到右肩或肩blade骨";
+$symptomName["s_1847"]="腹部疼痛，反復發作";
 $symptomName["s_57"]="通過排便或減輕腸胃氣脹而減輕的腹部疼痛";
 $symptomName["s_1531"]="腹部疼痛，右下腹";
 $symptomName["s_1855"]="腹部疼痛，右側";
